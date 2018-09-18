@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		44368565214F8B2D00B48DBA /* SecondaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44368564214F8B2D00B48DBA /* SecondaryViewController.swift */; };
 		44E50C0F214A2D310081C31E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E50C0E214A2D310081C31E /* AppDelegate.swift */; };
 		44E50C11214A2D310081C31E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E50C10214A2D310081C31E /* ViewController.swift */; };
 		44E50C14214A2D310081C31E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44E50C12214A2D310081C31E /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		44368564214F8B2D00B48DBA /* SecondaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondaryViewController.swift; sourceTree = "<group>"; };
 		44E50C0B214A2D310081C31E /* TechnicalHelper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TechnicalHelper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		44E50C0E214A2D310081C31E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		44E50C10214A2D310081C31E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 		44E50C02214A2D310081C31E = {
 			isa = PBXGroup;
 			children = (
+				44368564214F8B2D00B48DBA /* SecondaryViewController.swift */,
 				44E50C43214A8DE70081C31E /* THSamples.swift */,
 				44E50C41214A35330081C31E /* THWebInterface.swift */,
 				44E50C3F214A340E0081C31E /* THCommonComponents.swift */,
@@ -276,6 +279,7 @@
 				44E50C42214A35330081C31E /* THWebInterface.swift in Sources */,
 				44E50C44214A8DE70081C31E /* THSamples.swift in Sources */,
 				44E50C11214A2D310081C31E /* ViewController.swift in Sources */,
+				44368565214F8B2D00B48DBA /* SecondaryViewController.swift in Sources */,
 				44E50C0F214A2D310081C31E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
